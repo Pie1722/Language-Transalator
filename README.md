@@ -3,4 +3,5 @@ Multilingual transalator for all indian languages using the google transalator a
 
 Pyinstaller library is used for making the code into an portable exe file.
 
-[Visit GitHub]([https://github.com](https://github.com/Pie1722/Language-Transalator/releases/tag/V1))
+[Visit Release](https://github.com/Pie1722/Language-Transalator/releases/tag/V1)
+
